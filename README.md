@@ -12,7 +12,9 @@
 
 ### 42 School Curriculum
 <div align="center">
+  
   [![kaneddam's 42 stats](https://badge.mediaplus.ma/greenbinary/kaneddam)](https://github.com/oakoudad/badge42)
+  
   <br>
   <a href="https://github.com/lunar-maker/42cursus">
     📂 View Core Projects
