@@ -74,9 +74,12 @@
 ## 📫 Professional Connections
 
 <div align="center">
-  [![Email](https://img.shields.io/badge/Contact-3A5F40?style=for-the-badge&logo=gmail)](mailto:kamarneddama60@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/Network-457546?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kamar-neddama)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4C7A4F?style=for-the-badge)](https://yourportfolio.site)
+  <a href="mailto:kamarneddama60@gmail.com">
+    <img src="https://img.shields.io/badge/Email-3A5F40?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/kamar-neddama">
+    <img src="https://img.shields.io/badge/LinkedIn-457546?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
 ---
