@@ -87,5 +87,5 @@
 ---
 
 <p align="center">
-  🌿 <i>"I believe in the power of combining logic with creativity, and I strive to bring a touch of elegance to everything I build."</i> 💚
+  🌿 <i>"I believe in the power of combining logic with creativity, and I strive to bring a touch of elegance to everything I build."</i> 🌿
 </p> 
