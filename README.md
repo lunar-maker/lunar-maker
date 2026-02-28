@@ -69,10 +69,6 @@
 **Professional Development**  
 📚 Technical Literature | 🎓 Online Courses | 💡 Hackathons
 
-**Creative Pursuits**  
-🎹 Piano Composition | 🏀 Competitive Basketball
----
-
 ## 📫 Professional Connections
 
 <div align="center">
